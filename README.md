@@ -71,7 +71,7 @@ Highly motivated engineering undergraduate student in Electronics and Telecommun
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulojan2027&show_icons=true&locale=en&layout=compact&theme=algolia&hide=Jupyter%20Notebook" alt="sulojan2027" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulojan2027&show_icons=true&locale=en&layout=compact&theme=radical" alt="sulojan2027" />
 </p>
 
 <p>&nbsp;
