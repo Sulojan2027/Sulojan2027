@@ -27,7 +27,7 @@ Highly motivated engineering undergraduate student in Electronics and Telecommun
 <p>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wiki/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" width="40" height="40"/>
 </p>
@@ -42,16 +42,15 @@ Highly motivated engineering undergraduate student in Electronics and Telecommun
 
 **Design Tools**  
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Altium_Designer_Logo.png" alt="altium" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/SolidWorks_Logo.svg" alt="solidworks" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/NI_Multisim_Logo.png" alt="multisim" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/LTspice.png" alt="ltspice" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Canva_icon_2021.svg" alt="canva" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" alt="altium" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" alt="canva" width="60" height="60"/>
 </p>
 
 **Tools / Other**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="git" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> 
