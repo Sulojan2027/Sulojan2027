@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sulojan Rajkumar</h1>
 <h3 align="center">
-Highly motivated engineering undergraduate student in Electronics and Telecommunication Engineering at the University of Moratuwa with a strong academic foundation and hands-on experience through projects and competitions. Passionate about innovation in Electronics, Computer Vision, and AI technologies, with a keen interest in applying skills in real-world problem-solving.
+Highly motivated engineering undergraduate student in Electronic and Telecommunication Engineering at the University of Moratuwa. Passionate about innovation in Computer Vision, Electronics and AI technologies, with a keen interest in applying skills in real-world problem-solving.
 </h3>
 
 ---
