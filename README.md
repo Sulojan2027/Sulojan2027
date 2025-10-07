@@ -36,7 +36,7 @@ Highly motivated engineering undergraduate student in Electronic and Telecommuni
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="jax" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" alt="jax" width="50" height="50"/> 
 </p>
 
 **Design Tools**  
