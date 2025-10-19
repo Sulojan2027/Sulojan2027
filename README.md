@@ -61,8 +61,8 @@ Highly motivated engineering undergraduate student in Electronic and Telecommuni
 
 <h3 align="left">📌 Current Projects</h3>
 
-- 🔭 I’m currently working on **Vision Transformer vs CNN project**  
-- 🌱 I’m currently learning **state-of-the-art Computer Vision and AI tools and techniques**
+- 🔭 I’m currently working on **Deep Learning, AI, Computer vision and Machine learning projects**  
+- 🌱 I’m currently learning **state-of-the-art Deep learning and Computer Vision and AI tools and techniques**
 
 ---
 
