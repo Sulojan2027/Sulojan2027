@@ -7,8 +7,6 @@
 **Electronic & Telecommunication Engineering Undergraduate**
 University of Moratuwa, Sri Lanka
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Vision+Engineer;AI+%26+Deep+Learning+Enthusiast;Embedded+Systems+Developer;Edge+AI+%26+TinyML+Explorer)](https://git.io/typing-svg)
-
 *"Turning innovative ideas into intelligent, real-world solutions."*
 
 <br/>
