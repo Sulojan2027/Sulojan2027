@@ -205,20 +205,6 @@ University of Moratuwa, Sri Lanka
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulojan2027&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulojan2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulojan2027&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
