@@ -4,15 +4,16 @@
 
 # Sulojan Rajkumar
 
-**Electronic & Telecommunication Engineering Undergraduate**
-University of Moratuwa, Sri Lanka
+**Computer Vision · Multimodal Learning · Autonomous Systems**
 
-*"Turning innovative ideas into intelligent, real-world solutions."*
+Final-year Electronic & Telecommunication Engineering undergraduate, University of Moratuwa, Sri Lanka
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sulojan-rajkumar-b69498297/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://kaggle.com/your-link](https://www.kaggle.com/sulojanrajkumar))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E1024?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sulojan2027.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulojan-rajkumar-b69498297/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Sulojan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sulojanrajkumar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulojanrajkumar@gmail.com)
 
 </div>
@@ -21,199 +22,101 @@ University of Moratuwa, Sri Lanka
 
 ## 🧠 About Me
 
-- 🔭 Actively building projects in **Deep Learning**, **Computer Vision**, and **Edge AI**
-- 🌱 Exploring **Vision Transformers (ViTs)**, **YOLO-World**, and efficient model deployment
-- 🔬 Researching **Embedded Systems** × **TinyML** for on-device intelligence
-- 📫 Open to collaboration — let's build something impactful together
+I work on **computer vision** and **deep learning**, with a particular interest in **vision-language models**, **world models**, and **autonomous systems**: models that understand the world through vision, language and other signals, and machines that must perceive, reason and act reliably in the real world.
+
+I enjoy building systems end to end, from sensors and circuits to trained models and deployed interfaces.
+
+- 🎓 GPA 3.89/4.0 · Dean's List in all six semesters
+- 🔍 **Open to** PhD positions, research internships and collaborations in computer vision and machine learning
+- 📄 [CV (PDF)](https://drive.google.com/file/d/1bCWLywMF7AknFmNwC5kJ0KiaZcgKQe3m/view?usp=sharing)
+
+---
+
+## 🔭 Currently
+
+- 🛠️ **AutoLayout** (final-year project): a vision-language model pipeline that reads schematic images and netlists and outputs PCB layouts as EDA-importable JSON
+- 🤖 **ROS 2 Vision Autonomy**: GPU YOLO perception in a Gazebo simulation, working toward a robot that drives from what it sees
+- 📐 **EKF + deep pose estimation**: turning jittery YOLO26-pose keypoints into smooth, anatomically consistent joint angles
+
+## 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| **Research Assistant**, UAV mission planning & VLMs: built the drone patrol algorithm and third-person-view mission visualization pipeline for [MissionBench](https://gomtae.github.io/publications/missionbench) | University of Moratuwa | Jan – Apr 2026 |
+| **AI Engineer Intern**: production MLOps pipelines, CLI utilities, computer vision algorithms and data-processing workflows | [TeaAI](https://www.teaai.ai/) | Dec 2025 – Jun 2026 |
+
+---
+
+## 🚀 Selected Work
+
+| Project | Highlights | Links |
+|---|---|---|
+| **AutoLayout** · *in progress*<br/><sub>VLM: schematic → PCB layout</sub> | Multimodal pipeline from schematic images and netlists to EDA-importable layout JSON | [Details](https://sulojan2027.github.io/portfolio/#projects) |
+| **MissionBench** · *research*<br/><sub>Mission-level evaluation of aerial MLLM agents</sub> | 120 missions, 22 MLLMs evaluated, best success rate under 35% | [Project](https://gomtae.github.io/publications/missionbench) · [arXiv](https://arxiv.org/abs/2607.22014) |
+| **ROS 2 Vision Autonomy** · *in progress*<br/><sub>ROS 2 Jazzy · Gazebo · YOLO</sub> | 8.7 ms per frame on GPU within a 33 ms (30 FPS) budget | [Code](https://github.com/Sulojan2027/ros2-vision-autonomy) |
+| **Vision Transformer from Scratch**<br/><sub>PyTorch · TensorFlow</sub> | ViT-B/16 from the paper: 60.99% from scratch vs 95.67% fine-tuned vs 88.71% ResNet on CIFAR-10 | [Code](https://github.com/Sulojan2027/Vision_Transformer_from_paper) |
+| **PCB Defect Detection**<br/><sub>YOLOv8 · Streamlit</sub> | 0.941 test mAP50, 18.4 ms per image, six defect types | [Code](https://github.com/Sulojan2027/PCB_Defect_Detect) · [Demo](https://pcb-defectdetect.streamlit.app/) |
+| **Tea Leaf Disease Classification**<br/><sub>EfficientNet · ResNet · ViT</sub> | 91.5% val accuracy, 0.917 macro F1 across 8 classes; accuracy vs size vs speed comparison | [Code](https://github.com/Sulojan2027/Tea-leaves-defect-detection-ResNet-EfficientNet-and-ViT-) |
+| **EloQ** · *ICE 2026 bootcamp*<br/><sub>Meta Aria Gen 2 smart glasses</sub> | Public-speaking feedback from gaze, heart rate, voice and gestures; I built the gaze heatmap and attention timeline | [Code](https://github.com/designthinking-lk/team-d-website) · [Website](https://eloq.designthinking.lk/) |
+| **NFC Attendance Logger**<br/><sub>STM32 · KiCad · Embedded C</sub> | ~17 months on a 1000 mAh cell, 1.8 µA when off; I designed the NFC front end | [Code](https://github.com/rajinthanr/attendance-management-system) |
+
+More projects (capacitive torque sensor, analog wall-following robot) on my [portfolio](https://sulojan2027.github.io/portfolio/#projects).
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+**Languages**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      </a>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://cplusplus.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-      </a>
-      <br/><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.mathworks.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB"/>
-      </a>
-      <br/><sub><b>MATLAB</b></sub>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logoColor=white)
 
-### 🤖 AI & Deep Learning Frameworks
+**AI & Computer Vision**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow"/>
-      </a>
-      <br/><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch"/>
-      </a>
-      <br/><sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://keras.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras"/>
-      </a>
-      <br/><sub><b>Keras</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV"/>
-      </a>
-      <br/><sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
-      </a>
-      <br/><sub><b>Scikit-learn</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.ultralytics.com/" target="_blank">
-        <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" width="48" height="48" alt="Ultralytics"/>
-      </a>
-      <br/><sub><b>Ultralytics</b></sub>
-    </td>
-  </tr>
-</table>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-5E97F6?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 📊 Data Science Libraries
+**Robotics & Simulation**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-      </a>
-      <br/><sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-      </a>
-      <br/><sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
-      </a>
-      <br/><sub><b>Seaborn</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://jax.readthedocs.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" width="48" height="48" alt="JAX"/>
-      </a>
-      <br/><sub><b>JAX</b></sub>
-    </td>
-  </tr>
-</table>
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logoColor=white)
+![Cosys-AirSim](https://img.shields.io/badge/Cosys--AirSim-0078D4?style=flat-square&logoColor=white)
 
-### ⚙️ Engineering & Design Tools
+**Tools**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.altium.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" width="48" height="48" alt="Altium"/>
-      </a>
-      <br/><sub><b>Altium</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.solidworks.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" width="90" height="48" alt="SolidWorks"/>
-      </a>
-      <br/><sub><b>SolidWorks</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.canva.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" width="80" height="48" alt="Canva"/>
-      </a>
-      <br/><sub><b>Canva</b></sub>
-    </td>
-  </tr>
-</table>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-### 🧰 Development & Workflow
+**Electronics & Design**
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-      </a>
-      <br/><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" width="48" height="48" alt="Git"/>
-      </a>
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub"/>
-      </a>
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.kaggle.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" height="48" alt="Kaggle"/>
-      </a>
-      <br/><sub><b>Kaggle</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://jupyter.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="48" height="48" alt="Jupyter"/>
-      </a>
-      <br/><sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Colab"/>
-      </a>
-      <br/><sub><b>Colab</b></sub>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.latex-project.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="48" height="48" alt="LaTeX"/>
-      </a>
-      <br/><sub><b>LaTeX</b></sub>
-    </td>
-  </tr>
-</table>
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-555555?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-555555?style=flat-square)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Highlights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sulojan2027&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
+- 🎖️ Dean's List in all six semesters, University of Moratuwa
+- 🏁 Finalist, Sri Lankan IoT Challenge 2026 and Sri Lankan Robotics Challenge 2024
+- 🎓 Mahapola Scholarship and Dialog Merit Scholarship (District Rank 1, G.C.E. A/L)
+- 📜 Recent certifications: Agentic AI (DeepLearning.AI), VLM Bootcamp and PyTorch Bootcamp (OpenCV University), Advanced JAX (CodeSignal), Machine Learning Specialization (Stanford & DeepLearning.AI)
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
-  <sub>⭐ Star my repos if you find them useful!</sub>
+  <sub>Happy to discuss research, collaborations or opportunities · <a href="https://sulojan2027.github.io/portfolio/">sulojan2027.github.io/portfolio</a></sub>
 </div>
